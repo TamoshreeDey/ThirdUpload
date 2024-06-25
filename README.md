@@ -1,4 +1,4 @@
-#CurrencyConverter
+# CurrencyConverter
 Front End and some Back End
 Here I learnt more about JavaScript and learnt to use several different key words and functions.
 At first I faced a lot of trouble in fetching the API but then I resolved it. I had to watch the video almost 4 times to understand what next.
